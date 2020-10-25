@@ -25,5 +25,5 @@ public struct WebAgent {
 }
 
 public struct API {
-    static let webAgent = WebAgent()
+    static let agent = WebAgent()
 }
